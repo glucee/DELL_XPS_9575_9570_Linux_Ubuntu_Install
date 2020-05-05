@@ -1,6 +1,6 @@
 # DELL_XPS_9575_9570_Linux_Ubuntu_Install
 
-Install Ubuntu along with Windows on Dell XPS 9575 or 9570. I have tested with Pop!OS, Elemontry OS and Ubuntu 20.04.
+Install Ubuntu along with Windows on Dell XPS 9575 or 9570. I have tested with Pop! OS, Elemontry OS and Ubuntu 20.04.
 
 There are following steps:
 
@@ -48,6 +48,8 @@ and change the font to 30
 * It your Linux system use GNOME, you can install some addons in https://extensions.gnome.org/, there are many useful and popular addon to make your system much easier to use, espcailly the ones in the first page (the most popular)!
 
 
-Reference:
+## Reference
+
 https://medium.com/@tylergwlum/my-journey-installing-ubuntu-18-04-on-the-dell-xps-15-7590-2019-756f738a6447
+
 https://support.system76.com/articles/customize-gnome/
