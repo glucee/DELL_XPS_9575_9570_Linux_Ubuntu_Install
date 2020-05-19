@@ -56,8 +56,11 @@ and change the font to 30
 * Dispaly problem when switching to Windows
 
 `sudo gedit /etc/default/grub
+
 #Uncomment to disable graphical terminal (grub-pc only)
+
 GRUB_TERMINAL=console
+
 sudo update-grub`
 
 ## Reference
