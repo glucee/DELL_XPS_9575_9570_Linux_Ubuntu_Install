@@ -49,6 +49,16 @@ and change the font to 30
 
 * Highly suggeset you to install Chrome (https://www.google.co.uk/chrome/) (Not Chromium) in your OS, it will allow you to install Youtubue Music and work with Cast!
 
+* Time zone auto adjust for both system:
+
+`timedatectl set-local-rtc 1 --adjust-system-clock`
+
+* Dispaly problem when switching to Windows
+
+`sudo gedit /etc/default/grub
+#Uncomment to disable graphical terminal (grub-pc only)
+GRUB_TERMINAL=console
+sudo update-grub`
 
 ## Reference
 
